@@ -1,4 +1,4 @@
-# 20centAI 🤖💸
+# 20centAI 
 
 > *"Built the day DeepSeek went down — and I had no Plan B."*
 
