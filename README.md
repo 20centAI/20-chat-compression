@@ -185,7 +185,7 @@ User Input
                     count_messages() >= COMPRESS_THRESHOLD?
                            │
                     compress_chat()  ←  active model summarizes oldest N
-...
+```
 ---
 
 ## 🤯 Why It Works
