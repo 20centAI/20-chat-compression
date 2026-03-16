@@ -200,4 +200,4 @@ User Input
 MIT — fork it, ship it, make it yours.
 
 ---
-*The code was created by [claude.ai](https://claude.ai) in cooperation with [perplexity.ai](https://perplexity.ai) and [deepseek.com](https://deepseek.com).*
+*Built with the help of [claude.ai](https://claude.ai) in cooperation with [perplexity.ai](https://perplexity.ai) and [deepseek.com](https://deepseek.com).*
