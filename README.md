@@ -87,6 +87,7 @@ EOF
 
 # 4. Run
 streamlit run ai_chat_en.py
+# Opens automatically in your browser at http://localhost:8501
 
 # Next time just:
 source .venv/bin/activate && streamlit run ai_chat_en.py
